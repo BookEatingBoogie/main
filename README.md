@@ -1,1 +1,1 @@
-![스크린샷 2025-02-17 오후 3.14.33.png](attachment:fab3cb38-2ef9-4e39-91ab-83e5b1080fdb:스크린샷_2025-02-17_오후_3.14.33.png)
+<img width="863" alt="아키텍처" src="https://github.com/user-attachments/assets/bec3c54b-8ed7-4bce-8e7d-6f882d2c6352" />

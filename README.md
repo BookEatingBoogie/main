@@ -24,5 +24,6 @@
 
 
 ## System Architecture
+<img width="933" alt="스크린샷 2025-03-18 오후 4 21 46" src="https://github.com/user-attachments/assets/f9fda800-bd24-4d11-9e26-8e65bf204f27" />
 
-<img width="671" alt="스크린샷 2025-03-18 오후 4 14 00" src="https://github.com/user-attachments/assets/80b8302f-5c3a-41f6-8890-eeaf71fac5a0" />
+

@@ -17,7 +17,7 @@
 ## 📁 작품 구조 및 결과물 소개
 
 <img width="1425" alt="동화 구조도" src="https://github.com/user-attachments/assets/cd185eba-27fb-48b9-b68e-a324941580d7" />
-
+시연 영상 주소 https://youtu.be/iD2Vp7fY_0E
 
 ---
 
